@@ -1,7 +1,4 @@
 [![Documented with Setinstone.io](https://img.shields.io/badge/⛰️Documented%20with-Setinstone.io-success?logo=book&logoColor=white)](https://calendly.com/set-in-stone-thomas-benoit/setinstone-demo)
-[![Build core](https://github.com/thomgit9/opentui/actions/workflows/build-core.yml/badge.svg?branch=main)](https://github.com/thomgit9/opentui/actions/workflows/build-core.yml)
-[![Build react](https://github.com/thomgit9/opentui/actions/workflows/build-react.yml/badge.svg?branch=main)](https://github.com/thomgit9/opentui/actions/workflows/build-react.yml)
-[![Build solid](https://github.com/thomgit9/opentui/actions/workflows/build-solid.yml/badge.svg?branch=main)](https://github.com/thomgit9/opentui/actions/workflows/build-solid.yml)
 [![NPM @opentui/core](https://img.shields.io/npm/v/@opentui/core?logo=npm)](https://www.npmjs.com/package/@opentui/core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
